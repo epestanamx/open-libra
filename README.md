@@ -13,11 +13,11 @@ var openLibra = require('open-libra')
 
 var client = openLibra.createCliente()
 
-client.books(function (err, books) {
+client.books('/', 'GET', { id: 589 }, function (err, books) {
   // do something books
 })
 
-client.search('javascript', function(err, books) {
+client.search('javascript', { num_items: 5 }function(err, books) {
   // do something books
 })
 ```
