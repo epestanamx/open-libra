@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ingepestana/open-libra.git"
+    "url": "https://github.com/epestanamx/open-libra.git"
   },
   "keywords": [
     "open",
@@ -26,12 +26,12 @@
     "it",
     "books"
   ],
-  "author": "Ernesto A. Pestaña Jiménez <ingepestana@gmail.com>",
+  "author": "Ernesto Pestaña <epestanamx@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ingepestana/open-libra/issues"
+    "url": "https://github.com/epestanamx/open-libra/issues"
   },
-  "homepage": "https://github.com/ingepestana/open-libra#readme",
+  "homepage": "https://github.com/epestanamx/open-libra#readme",
   "devDependencies": {
     "istanbul": "^0.4.2",
     "nock": "^5.2.1",
