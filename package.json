@@ -1,6 +1,6 @@
 {
   "name": "open-libra",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple client for Open Libra API",
   "main": "index.js",
   "scripts": {
